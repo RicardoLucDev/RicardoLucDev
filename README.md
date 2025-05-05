@@ -20,4 +20,4 @@
 
 ### 📫 Vamos conversar?
 - 💬 Pergunte-me sobre **tecnologia, jogos ou música**!  
-- 📩 Me envie um e-mail: **seu-email@exemplo.com**.  
+- 📩 Me envie um e-mail: ricardoluciano2019@gmail.com.  
