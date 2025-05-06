@@ -11,7 +11,9 @@
 - :sparkles: Gosto de resolver desafios que quebram a cabeça.
 - :computer: Atualmente trabalhando como Almoxarife na MacLub.  
 - :seedling: Aprendendo Html, Css e JavaScript.  
-- :dart: Objetivo: Conseguir um emprego como desenvolvedor FullStack.  
+- :dart: Objetivo: Conseguir um emprego como desenvolvedor FullStack.
+
+---
 
 ### 🛠 Tecnologias no meu dominio
 
@@ -28,6 +30,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
 
 ### 📊 Estatísticas do GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoLucDev&show_icons=true&theme=transparent)
